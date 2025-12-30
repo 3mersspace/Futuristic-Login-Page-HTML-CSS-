@@ -25,6 +25,8 @@ This project was created to practice frontend fundamentals, improve CSS styling 
 ## 📂 Usage
 You can open the project by simply running the `index.html` file in any browser.
 
+⚠️ Note: This project is not yet responsive (mobile-friendly).
+
 ---
 
 💡 *This project is part of my frontend learning journey.*
